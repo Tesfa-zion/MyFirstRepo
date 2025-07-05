@@ -1,0 +1,1 @@
+echo "I've learned how to use GitHub to create repositories, work with branches, and collaborate using pull requests. It's helping me understand real-world workflows in software development." > learning.txt
