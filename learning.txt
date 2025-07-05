@@ -1,1 +1,2 @@
-echo "I've learned how to use GitHub to create repositories, work with branches, and collaborate using pull requests. It's helping me understand real-world workflows in software development." > learning.txt
+What I have learned from this course:
+I have learned how to use Git and GitHub for version control, how to collaborate using branches, and how to write meaningful commit messages.
